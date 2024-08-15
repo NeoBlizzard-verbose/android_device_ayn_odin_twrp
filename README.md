@@ -1,2 +1,10 @@
-# android_device_ayn_odin_twrp
-minimal TWRP DT built using twrpdtgen for the ayn odin M2 (build 151)
+# Android device tree for qti SDM845 for arm64 (sdm845)
+
+```
+#
+# Copyright (C) 2024 The Android Open Source Project
+# Copyright (C) 2024 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
